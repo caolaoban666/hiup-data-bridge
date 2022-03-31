@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <springboot.version>1.5.2.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
 
         <package.version>v1.0.0.0</package.version>
     </properties>
